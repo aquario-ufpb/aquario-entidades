@@ -9,6 +9,7 @@ O repositório está organizado por centro/unidade acadêmica. Atualmente, cont�
 - `centro-de-informatica/` - Entidades do Centro de Informática da UFPB
 
 Cada pasta de centro contém:
+
 - Arquivos JSON individuais para cada entidade (um arquivo por entidade)
 - Pasta `assets/` com as imagens/logos das entidades
 
@@ -17,6 +18,7 @@ Cada pasta de centro contém:
 ### 1. Criar o arquivo JSON
 
 Crie um novo arquivo JSON na pasta do centro correspondente (ex: `centro-de-informatica/`). O nome do arquivo deve ser um slug (letras minúsculas, hífens para espaços). Exemplos:
+
 - `laboratorio-inteligencia-artificial.json`
 - `grupo-pesquisa-redes.json`
 - `liga-academica-software.json`
@@ -92,6 +94,7 @@ Os seguintes valores são aceitos para a propriedade `tipo`:
 ### 7. Formato do Array `people`
 
 Cada pessoa no array deve ter:
+
 - **`name`** (string): Nome completo
 - **`email`** (string): Email (pode ser vazio `""`)
 - **`role`** (string): Cargo ou função na entidade
@@ -134,9 +137,9 @@ Para adicionar entidades de um novo centro/unidade:
 ## Validação
 
 Após criar ou modificar um arquivo JSON, certifique-se de:
+
 - O JSON está válido (sem erros de sintaxe)
 - O arquivo de imagem existe na pasta `assets/`
 - O `imagePath` aponta corretamente para a imagem
 - O `tipo` usa um dos valores válidos
 - As propriedades obrigatórias estão presentes
-
