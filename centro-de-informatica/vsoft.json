@@ -1,0 +1,10 @@
+{
+  "name": "Vsoft",
+  "description": "Empresa especializada no desenvolvimento de soluções tecnológicas para identificação de pessoas e certificação de processos. A Vsoft utiliza Biometria e Inteligência Artificial para criar produtos inovadores voltados para segurança e eficiência operacional.",
+  "tipo": "EMPRESA",
+  "imagePath": "./assets/Vsoft.png",
+  "contato_email": "",
+  "website": "https://www.vsoft.com.br",
+  "location": "",
+  "people": []
+}
