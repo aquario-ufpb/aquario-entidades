@@ -5,7 +5,8 @@
   "tipo": "GRUPO_ESTUDANTIL",
   "imagePath": "./assets/ConnectaCi.png",
   "contato_email": "connecta.ci.pb@gmail.com",
-  "linkedin": "https://www.linkedin.com/company/connecta-ci/",
   "instagram": "https://www.instagram.com/connectaci/",
+  "website": "https://connecta-landing-page.onrender.com/",
+  "linkedin": "https://www.linkedin.com/company/connecta-ci/",
   "location": "Centro de Informática - UFPB"
 }
