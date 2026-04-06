@@ -1,6 +1,6 @@
 {
-  "name": "PaCode",
-  "description": "Grupo de Estudos para Programação Competitiva da Universidade Federal da Paraíba.",
+  "name": "Pacode",
+  "description": "Grupo de Estudos para Programação Competitiva da Universidade Federal da Paraíba. O Pacode oferece turmas de programação todos os semestres na forma de minicursos ou disciplinas optativas. Além disso, ele é responsável por organizar a Maratona Pacode todo início de semestre.",
   "tipo": "GRUPO_ESTUDANTIL",
   "imagePath": "./assets/Pacode.png",
   "contato_email": "",
