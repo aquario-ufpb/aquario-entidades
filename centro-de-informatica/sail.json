@@ -1,0 +1,11 @@
+{
+  "name": "SAIL Lab",
+  "subtitle": "Social Artificial Intelligence Lab",
+  "description": "O SAIL Lab (Social Artificial Intelligence Lab) é um laboratório de pesquisa e desenvolvimento dedicado à aplicação de Inteligência Artificial em domínios de alto impacto social. Sua missão é desenvolver soluções inteligentes que transformem setores essenciais como Educação, Saúde e Governo, promovendo inovação tecnológica a serviço do bem comum.",
+  "tipo": "LABORATORIO",
+  "imagePath": "./assets/SAIL.png",
+  "contato_email": "",
+  "instagram": "https://www.instagram.com/saillab_ufpb/",
+  "location": "Centro de Informática - UFPB",
+  "people": []
+}
